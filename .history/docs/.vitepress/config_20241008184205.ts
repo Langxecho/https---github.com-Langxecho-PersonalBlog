@@ -13,7 +13,7 @@ export default defineConfig({
         { text: "常见问题", link: "/faq/" },
       ],
       socialLinks: [
-        { icon: "github", link: "https://github.com/Langxecho/https---github.com-Langxecho-PersonalBlog" },
+        { icon: "github", link: "https://github.com/Langxecho/https---github.com-Langxecho-PersonalBlog.git" },
       ],
       sidebar: {
         "/guide/": [
